@@ -1,0 +1,87 @@
+body{
+    background-image: url("background.jpg");
+    background-size: cover;
+}
+
+.contenitore{
+  width: 1200px;
+  height: 850px;
+  margin: auto;
+  margin-top: 40px;
+  background-color: rgba(0,0,0,0.5);
+  border-radius: 5%;
+  font-family: 'Poppins', sans-serif;
+}
+
+#logo{
+  width: 240px;
+  margin-left: 480px;
+  margin-top: 90px;
+}
+
+.logo-text{
+  text-align: center;
+  color: #06e906;
+  margin: 3px;
+  margin-left: 20px;
+
+}
+
+.navigatore{
+  width: 1050px;
+  background-color: #06e906;
+  margin: auto;
+  text-align: center;
+  padding: 10px;
+}
+
+.scooter{
+  margin-left: 70px;
+  margin-top: 5px;
+  color: white;
+}
+
+.persona{
+  display: inline-block;
+  margin-bottom: 0;
+  font-size: 25px;
+  font-weight: 400;
+}
+
+h3{
+  margin-bottom: 0;
+  margin-top: 3px;
+  font-size: 15px;
+  font-weight: 300;
+}
+
+h4{
+  margin-top: 1px;
+  margin-bottom: 0;
+  font-size: 15px;
+  font-weight: 300;
+}
+
+.barra-carica1{
+  width: 400px;
+  height: 30px;
+  background-color: #efb46a;
+  border-radius: 5px;
+  margin-top: 3px;
+}
+
+.barra-carica2{
+  width: 650px;
+  height: 30px;
+  background-color: #25c125;
+  border-radius: 5px;
+  margin-top: 3px;
+}
+
+.barra-carica3{
+  width: 130px;
+  height: 30px;
+  background-color: #c34c4c;
+  border-radius: 5px;
+  margin-top: 3px;
+}
